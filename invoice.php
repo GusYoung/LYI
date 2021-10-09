@@ -77,7 +77,7 @@ $client_id=$row['client_id'];
 
             <div class="row">
               <div style="text-align: left;"class="col-9">
-                <p>(408)-568-4558<br>
+                <p>(XXX)-XXX-XXXX<br>
                   www.lindsayyounginteriors.com<br>
                 </p>
               </div>
