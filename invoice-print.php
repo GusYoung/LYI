@@ -48,7 +48,7 @@ require('pdo.php');
                 <br>
                 <label style="font-weight: bold;">Shipping Address</label><br>
                 Lindsay Young Interiors<br>
-                795 Folsom Ave, Suite 600<br>
+                000 Boston Ave, Suite 000<br>
                 Boston, MA XXXXXX<br>
               </address>
             </div>
@@ -57,7 +57,7 @@ require('pdo.php');
                   <br>
                   <label style="font-weight: bold;">Billing Address</label><br>
                     Kevin Young<br>
-                    15 Samoset Road<br>
+                    00 Boston Road<br>
                     Boston, MA XXXXXX<br>
                 </address>
               </div>
@@ -66,7 +66,7 @@ require('pdo.php');
             <div class="row">
               <div style="text-align: left;"class="col-9">
                 <p>Lindsay Young Interiors<br>
-                  Phone: (617)-930-0993<br>
+                  Phone: (111)111-111<br>
                   Web: lindsayyounginteriors.com<br>
                 </p>
               </div>
